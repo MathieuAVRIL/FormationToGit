@@ -9,6 +9,7 @@ NEW DELHI
 OSAKA
 SINGAPOUR
 HONG-KONG
+ChengDu
 
 New York
 Los Angeles

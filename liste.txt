@@ -30,3 +30,4 @@ Montreal
 Paris
 Bruxelle
 Berlin
+Madrid

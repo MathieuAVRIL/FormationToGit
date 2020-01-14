@@ -1,3 +1,7 @@
+PEKIN
+TOKYO
+OULAN BATOR
+
 New York
 Los Angeles
 Dallas

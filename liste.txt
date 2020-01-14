@@ -1,6 +1,7 @@
 PEKIN
 TOKYO
 OULAN BATOR
+NEW DELHI
 
 New York
 Los Angeles

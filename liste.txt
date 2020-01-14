@@ -12,3 +12,6 @@ Yellowstone
 Miami
 Las Vegas
 Sacramento
+
+Paris
+Bruxelle

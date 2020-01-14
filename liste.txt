@@ -6,6 +6,7 @@ Cambera
 Tunis
 Alger
 Rabat
+Dakar
 
 PEKIN
 TOKYO

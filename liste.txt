@@ -1,5 +1,6 @@
 Tunis
 Alger
+Rabat
 
 PEKIN
 TOKYO
